@@ -20,5 +20,6 @@ int  main()
 
     }
     newFile.close();
+    mainFile.close();
     return 0;
 }
